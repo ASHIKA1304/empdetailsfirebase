@@ -95,12 +95,6 @@ Registeration Number : 212224220011
 
 ```
 
-## STRINGS.XML:
-
-```
-
-
-```
 
 ## MAIN ACTIVITY.JAVA
 
